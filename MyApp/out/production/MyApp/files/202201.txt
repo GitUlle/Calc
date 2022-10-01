@@ -1,0 +1,5 @@
+Hej
+Detta,är,test
+För,att,se
+om,det, går
+att,läsa,filer
